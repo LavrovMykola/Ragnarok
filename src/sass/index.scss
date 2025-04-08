@@ -1,2 +1,13 @@
-@import './common';
-@import './example';
+@import './utils/variables';
+@import './utils/mixins';
+@import './base/common';
+@import './base/reset';
+@import './components/header';
+@import './components/hero';
+@import './components/editions';
+@import './components/dualsense';
+@import './components/trailer';
+@import './components/explore';
+@import './components/news';
+@import './components/faq';
+@import './components/footer';
